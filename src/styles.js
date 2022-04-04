@@ -4,7 +4,6 @@ export const ContributorsList = styled.div`
   display: flex;
   align-content: center;
   flex-flow: row wrap;
-  height: 100%;
   margin: 1rem 1rem;
 `;
 
